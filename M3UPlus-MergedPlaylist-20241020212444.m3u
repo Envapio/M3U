@@ -1,0 +1,541 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="News" tvg-shift="-6",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="News" tvg-shift="-6",BBC WORLD NEWS
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="News" tvg-shift="-6",BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="News" tvg-shift="-6",CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="News" tvg-shift="-6",CNBC FHD
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="News" tvg-shift="-6",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="News" tvg-shift="-6",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="News" tvg-shift="-6",FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="News" tvg-shift="-6",FOX News Channel
+http://streamsy.online:2999/live/juanv/04bodwaga0/267.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="News" tvg-shift="-6",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="News" tvg-shift="-6",MSNBC
+http://streamsy.online:2999/live/juanv/04bodwaga0/143.m3u8
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC (Chicago)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="News" tvg-shift="-6",NBC (Chicago)
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="News" tvg-shift="-6",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="News" tvg-shift="-6",Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="Sports" tvg-shift="-6",ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="Sports" tvg-shift="-6",BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Sports" tvg-shift="-6",Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",CBS SPORTS NETWORK
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",ESPN
+http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",ESPN NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX SOCCER PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports" tvg-shift="-6",FOX SOCCER PLUS
+http://streamsy.online:2999/live/juanv/04bodwaga0/265.m3u8
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Sports" tvg-shift="-6",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports" tvg-shift="-6",FS2
+http://streamsy.online:2999/juanv/04bodwaga0/264
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Sports" tvg-shift="-6",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Sports" tvg-shift="-6",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Sports" tvg-shift="-6",SEC Network
+http://streamsy.online:2999/juanv/04bodwaga0/295
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="Sports" tvg-shift="-6",Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Sports" tvg-shift="-6",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="Sports" tvg-shift="-6",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Movies" tvg-shift="-6",CINEMAX
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="Movies" tvg-shift="-6",EPIX
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="Movies" tvg-shift="-6",EPIX 2
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX DRIVE IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="Movies" tvg-shift="-6",EPIX DRIVE IN
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="Movies" tvg-shift="-6",EPIX HITS
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Movies" tvg-shift="-6",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="Movies" tvg-shift="-6",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",HBO2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",HBO Zone
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",Lifetime Movies Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movies" tvg-shift="-6",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Movies" tvg-shift="-6",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Movies" tvg-shift="-6",Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movies" tvg-shift="-6",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies" tvg-shift="-6",Showtime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies" tvg-shift="-6",Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Movies" tvg-shift="-6",Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movies" tvg-shift="-6",Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Movies" tvg-shift="-6",Starz Encore
+http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movies" tvg-shift="-6",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movies" tvg-shift="-6",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",SundanceTV
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies" tvg-shift="-6",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",BBC AMERICA
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET GOSPEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",BET HER
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",BET SOUL
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",BRAVO
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",COOKING
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",FOOD NETWORK
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",FYI FHD
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="get.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",getTV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",Logo
+http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="mtvU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",mtvU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",Oprah Winfrey Network
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",PopTV
+http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",truTV
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",TVLand
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Entertainment" tvg-shift="-6",TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Entertainment" tvg-shift="-6",Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Entertainment" tvg-shift="-6",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",DISCOVERY LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",ID (Investigation Discovery)
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",National Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Documentary" tvg-shift="-6",TLC
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",CARTOON NETWORK
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY FAMILY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",DISCOVERY FAMILY CHANNEL
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",DISNEY CHANNEL
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",DISNEY JR
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",DISNEY XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids" tvg-shift="-6",NickJr
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Kids" tvg-shift="-6",NickMusic USA
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids" tvg-shift="-6",NickToons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="e855fa0b0886add7bad38304156d04fd" tvg-name="Shriners Children's Open" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/golf.png?raw=true" group-title="Golf" tvg-shift="-6",Shriners Children's Open
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729458000000-shriners-children-s-open%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="edd724293cd143c814b27cb31dacf5ec" tvg-name="Las Vegas Open Day 4" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/golf.png?raw=true" group-title="Golf" tvg-shift="-6",Las Vegas Open Day 4
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Flas-vegas-open-day-4%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="fe01977453e0eaf756d2dd77b60fe6c6" tvg-name="Shriners Children's Open Final Round" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/golf.png?raw=true" group-title="Golf" tvg-shift="-6",Shriners Children's Open Final Round
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fshriners-children-s-open-final-round%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="30d988831407dd974ec627d592fa643c" tvg-name="Volei Renata v Goias" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/bg/sports.png" group-title="Other" tvg-shift="-6",Volei Renata v Goias
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729459800000-volei-renata-goias%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="5900c6878e97bf3d329bd48bc34d0791" tvg-name="Wisconsin W v Michigan W" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/bg/sports.png" group-title="Other" tvg-shift="-6",Wisconsin W v Michigan W
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729467000000-wisconsin-w-michigan-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="c2799b730414958d1ced94e7a5e6d4a0" tvg-name="US Figure Skating: Exhibition Gala" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/bg/sports.png" group-title="Other" tvg-shift="-6",US Figure Skating: Exhibition Gala
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fus-figure-skating-exhibition-gala%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="81bd3e1ce271baf8b2b4895bb8d6c333" tvg-name="San Lorenzo vs Barracas Central" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjA5gUlMCRDUQvEFiMh9EM4mshpLJBSwi5jFHo46tZeEWpyd+KzAYO6MYhBAA.webp" group-title="Football" tvg-shift="-6",San Lorenzo vs Barracas Central
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fsan-lorenzo-vs-barracas-central%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="066f97ee90c43dd0ff6510fcc8c89e48" tvg-name="Temperley vs Nueva Chicago" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvWBheIOChAGd0kFhMhjJEJeq6TLJBSwi5jFGFUoe78o2pzP+Kxa7uJiEEA.webp" group-title="Football" tvg-shift="-6",Temperley vs Nueva Chicago
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Ftemperley-vs-nueva-chicago%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="55f72dd7f0535d487313af346a0e094b" tvg-name="AtlÃ©tico Junior vs Deportivo Pereira" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDJiUYHUhBYQvENIOaQEIyGrmSIGCyQUsIuYx2qUPMGXhFqcl74rMBgPuJiEEA.webp" group-title="Football" tvg-shift="-6",AtlÃ©tico Junior vs Deportivo Pereira
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fatletico-junior-vs-deportivo-pereira%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="50ca37451435b045886ff21ae1f06d0f" tvg-name="Florida Atlantic v Florida International" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Florida Atlantic v Florida International
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fflorida-atlantic-vs-florida-international-1629408200%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="3167d000c8f674a94de6b0f850e384fc" tvg-name="Atletico San Luis W v Club America W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Atletico San Luis W v Club America W
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-atletico-san-luis-w-club-america-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a38bbc0e223fd8099ba307ff6360f139" tvg-name="Libertad v Olimpia" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Libertad v Olimpia
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Flibertad-vs-olimpia%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="925be1195e68c97389732b3a43ac6945" tvg-name="Zambia U17 W v Poland U17 W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Zambia U17 W v Poland U17 W
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fzambia-u17-w-vs-poland-u17-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="116a0e96e7ff3589b4a05fe4de18bcfe" tvg-name="England U17 W v Mexico U17 W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",England U17 W v Mexico U17 W
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fengland-u17-w-vs-mexico-u17-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="3096fcc2e710795db18e8451792c869d" tvg-name="Central Valley Fuego v Greenville" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Central Valley Fuego v Greenville
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fcentral-valley-fuego-vs-greenville%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="2f6ed11071f85a3f470504abc384caa6" tvg-name="TristÃ¡n SuÃ¡rez vs Guillermo Brown" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",TristÃ¡n SuÃ¡rez vs Guillermo Brown
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Ftristan-suarez-vs-guillermo-brown%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="9866752fa2f9908fe81835f409548b0a" tvg-name="Atlante vs Correcaminos UAT" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDjwws-CGn6QvQyRCmsZkFeogU+lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football" tvg-shift="-6",Atlante vs Correcaminos UAT
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fatlante-vs-correcaminos%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="fc173c133508d66b04cee9bc94a2bb37" tvg-name="FC Cincinnati 2 vs Crown Legacy" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFk4x7KiBC8QWEDH0gIBkCXM3m+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="Football" tvg-shift="-6",FC Cincinnati 2 vs Crown Legacy
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-cincinnati-2-crown-legacy%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1f3c4bae82efffc1b8e3f9335ffd355d" tvg-name="Inter Miami II vs Columbus Crew 2" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Inter Miami II vs Columbus Crew 2
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-inter-miami-ii-columbus-crew-2%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="6780f353e59a7919ee9b7c3d5603d786" tvg-name="Juventude vs Palmeiras" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDiMxYGiCwheIaSAimQKEIhIgbN6SyQUsIuYxRhVKHp-KNqct74rMC6YtoMQA.webp" group-title="Football" tvg-shift="-6",Juventude vs Palmeiras
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-juventude-palmeiras%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="dc0d0ba50d3ac57c982c326ca5e808f7" tvg-name="Central Valley Fuego FC vs Greenville Triumph SC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCgwQZXiBQgsIPdJBnt2o6dOJpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football" tvg-shift="-6",Central Valley Fuego FC vs Greenville Triumph SC
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-central-valley-fuego-greenville-triumph-sc%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="53e1c7d774a57fdf92e7255f25b5509c" tvg-name="Angel City vs Utah Royals FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIgY8kDn7UQvPUe0gIIFCEMhLRlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football" tvg-shift="-6",Angel City vs Utah Royals FC
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fangel-city-fc-w-vs-utah-royals-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="c62f9484be8d36c39cfd24de40e7d3e3" tvg-name="Bowling Green v #15 Missouri State" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Bowling Green v #15 Missouri State
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fbowling-green-vs-15-missouri-state-1629408202%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a00269ff982b7ad1a3da514e5fb35193" tvg-name="Wanderers v Fenix" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Wanderers v Fenix
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fwanderers-vs-fenix%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a0b48c7ddcaf6ad2f7b1bceea6346c68" tvg-name="Pachuca W v Club Tijuana W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Pachuca W v Club Tijuana W
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fpachuca-w-vs-club-tijuana-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="77b971938e8974abcb6753d328667f57" tvg-name="North Texas v Vancouver Whitecaps 2" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",North Texas v Vancouver Whitecaps 2
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729470600000-north-texas-vancouver-whitecaps-2%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="c6a241c4f006323176a9f9d142596d72" tvg-name="San Carlos v Zeledon" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",San Carlos v Zeledon
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729470600000-san-carlos-zeledon%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1707f3b76f985eed32682986fc2ede43" tvg-name="Aguilas v Bucaramanga" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Aguilas v Bucaramanga
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Faguilas-vs-bucaramanga%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="8921bc2de048bd0282337a65a877ccac" tvg-name="Juarez W v U.A.N.L.- Tigres W" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Juarez W v U.A.N.L.- Tigres W
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fjuarez-w-vs-u-a-n-l-tigres-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a12133fa211b8793ca8fddccf87140c0" tvg-name="Penafiel vs SC LusitÃ¢nia" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETwa2BmBAheILCGogUm04ZAkbxlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football" tvg-shift="-6",Penafiel vs SC LusitÃ¢nia
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fpenafiel-vs-sc-lusitania%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1cef320320f228b7cfff67c81d0f2c0e" tvg-name="Rayong FC vs Nong Bua Pitchaya" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Rayong FC vs Nong Bua Pitchaya
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Frayong-fc-vs-nong-bua-pitchaya%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="f6930577ce33b5988bb4fc4e2bfc646e" tvg-name="CSKA 1948 vs Arda Kardzhali" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrRRhesENU4heIaSBKGQFrCBghEN6SyQUsIuYy2qUPMGXhF9Yl74rMBgPuJiEEA.webp" group-title="Football" tvg-shift="-6",CSKA 1948 vs Arda Kardzhali
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fcska-1948-sofia-vs-arda%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="0a6e12895543ba28a8184060ace5c747" tvg-name="Al Ain vs Al Hilal" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiA4gUYECEZIQvEFhDUQJMyYshpV7fmBIKWEXMY7VKHmDLwi1HLejvRgvuJiEEA.webp" group-title="Football" tvg-shift="-6",Al Ain vs Al Hilal
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fal-ain-vs-al-hilal%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="3b4b2084034a99e99dd4c496f108d013" tvg-name="Al-Sadd vs Persepolis" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE3VWAsGLAheILCGogSp4+ZDTLWFkgr32o8Sj0cUPPeUbaxXvg6YB6MYhBAA.webp" group-title="Football" tvg-shift="-6",Al-Sadd vs Persepolis
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fal-sadd-vs-persepolis%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="23650b5c0cc37735d992931514b41982" tvg-name="Al-Shorta SC vs Pakhtakor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFkowvMCGAAGYNJC8QWENRAlL565ttYWSCk-ajx21Sh5gy8Imo5H3xWYDA-cTEIIA.webp" group-title="Football" tvg-shift="-6",Al-Shorta SC vs Pakhtakor
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fal-shorta-vs-pakhtakor%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="2a0868a1059dad348b85f00bc06dfbe9" tvg-name="AGF v Brondby IF" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",AGF v Brondby IF
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fagf-vs-brondby-if%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="854127e84a4db39ec8987973081c86e7" tvg-name="Radomiak Radom vs Puszcza NiepoÅ‚omice" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqDhxatGCF4gs+wyBTHpJxIvzAkFLCLmMUYVSh6vyjanPc36YK7iYhBAA.webp" group-title="Football" tvg-shift="-6",Radomiak Radom vs Puszcza NiepoÅ‚omice
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fradomiak-radom-vs-puszcza%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="256be5a6ac27e4fffa2e56339586777d" tvg-name="Norrkoping vs Brommapojkarna" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtLD9QKGiBIheIaSCz7jIS4kvVDLJBSwi5jXapQ8wZeEWpyP+KzAYF7iYhBAA.webp" group-title="Football" tvg-shift="-6",Norrkoping vs Brommapojkarna
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fifk-norrkoping-vs-if-brommapojkarna%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="233927982863989b62304b73ceac0852" tvg-name="Helsingborg vs GIF Sundsvall" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE1lGG6WCQheIaSCwgSxzSAggYIFMZZIKWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="Football" tvg-shift="-6",Helsingborg vs GIF Sundsvall
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fhelsingborg-vs-sundsvall%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="834d5326b0eb73495f731a279e77a90d" tvg-name="BB Bodrumspor vs Rizespor" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvUZhgSYAAYQh3iCwhqIRCUNmQx49JZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp" group-title="Football" tvg-shift="-6",BB Bodrumspor vs Rizespor
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fbodrum-fk-vs-caykur-rizespor%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1a1eda5df340dd8a9b1b328ea2fcb566" tvg-name="IFK Gothenburg vs AIK" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjMpzqIGCF4hpILCBKGQFxBZSGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football" tvg-shift="-6",IFK Gothenburg vs AIK
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fifk-goteborg-vs-aik%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="175ab58d80c09ce3116c49f282a85588" tvg-name="Helmond v Roda" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Helmond v Roda
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fhelmond-vs-roda%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="0b369007d73257138f02ae6907c92909" tvg-name="Al Rayyan v Al Ahli SC" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Al Rayyan v Al Ahli SC
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fal-rayyan-vs-al-ahli-sc%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="9671e3202c4b4746e9ad23dafa28b2eb" tvg-name="Jong Ajax vs ADO Den Haag" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkk4UUIOCRC8Q0kPp3791EDogmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="Football" tvg-shift="-6",Jong Ajax vs ADO Den Haag
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fjong-ajax-vs-den-haag%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="27070809184ab7f97b4ad60bbd991ec5" tvg-name="SC Cambuur vs FC Eindhoven" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGk0w-LCCiJemkDBBHpxiyH0gSLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="Football" tvg-shift="-6",SC Cambuur vs FC Eindhoven
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fcambuur-vs-eindhoven-fc%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="3885c38c7e24cd2a69a7d6728ad0f663" tvg-name="Jong PSV vs Excelsior" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBAg51EFhAwQvENJC6SIC8c2GLWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Football" tvg-shift="-6",Jong PSV vs Excelsior
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fjong-psv-vs-excelsior%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="6d2a8b15a595bd1f299dbff02c8467bb" tvg-name="Albacete vs Burgos" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKlEH5gABhAwQ0kLxBZjIFCBIgbBuzZZIKWEXMYowqlD0-lG1OW9tejBPcTEIIA.webp" group-title="Football" tvg-shift="-6",Albacete vs Burgos
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Falbacete-vs-burgos%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="22f0106bcfd585a810d94f64e07a6c21" tvg-name="Troyes vs Paris FC" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtVA0QMELQgheILHpCITKUyBAGsLJBTvtR4lGFUoe78o01jP+KzAYO7iYhBAA.webp" group-title="Football" tvg-shift="-6",Troyes vs Paris FC
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Ftroyes-vs-paris-fc%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="717418cd3b305bfe6fe2b1cd65430760" tvg-name="Verona vs Monza" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlF4gsIFDTBIQWndRAwj2kCRA2tJFkgpYRcxntUoeYMvCLU5nviswGDe4mIQQA.webp" group-title="Football" tvg-shift="-6",Verona vs Monza
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fhellas-verona-vs-monza%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="41aa574e39c58880a2b45fa7e8618dbe" tvg-name="Miramar Misiones v Deportivo Maldonado" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Miramar Misiones v Deportivo Maldonado
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fmiramar-misiones-vs-deportivo-maldonado%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1c1bb78fbaa8f5812b565dfa8d68c258" tvg-name="Valencia vs Las Palmas" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKinnFCsiCF4gs+kChAkQ0kIkR7F+YEgpYRcxijCrNHD+UbU5mvb0YB7iYhBAA.webp" group-title="Football" tvg-shift="-6",Valencia vs Las Palmas
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fvalencia-vs-las-palmas%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="b5d1705a48998e115f55d162805027e3" tvg-name="Nottingham Forest vs Crystal Palace" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmEogQA4Ej4heIadpAoQMYyGogSZkIvx6KWEXMYowqlDy-lG1HI+TvRgXuJiEEA.webp" group-title="Football" tvg-shift="-6",Nottingham Forest vs Crystal Palace
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fnottingham-forest-vs-crystal-palace%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="5598e47fd581f3179c9dedd41b5feef6" tvg-name="Shanghai Port v Central Coast Mariners" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Shanghai Port v Central Coast Mariners
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fshanghai-port-vs-central-coast-mariners-19265557%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="112ed59139ca150eea7e0446fb93e217" tvg-name="Gwangju v Johor Darul Ta'zim" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Gwangju v Johor Darul Ta'zim
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fgwangju-vs-johor-darul-tazim-19265556%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="04f5557ba10d5bbee7e8fa0e66623f6a" tvg-name="Aston Villa U19 v Bologna U19" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Aston Villa U19 v Bologna U19
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Faston-villa-u19-vs-bologna-u19-19300159%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="9cd5f39910b737002dfaad8a6bbf35a5" tvg-name="Buriram United v Pohang Steelers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Buriram United v Pohang Steelers
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fburiram-united-vs-pohang-steelers-19265559%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="088dbe17c2b883682e0b5c5fb914cadb" tvg-name="Shandong Taishan v Yokohama F. Marinos" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Shandong Taishan v Yokohama F. Marinos
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fshandong-taishan-vs-yokohama-f-marinos-19265558%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="4fcd7d358a915e7714290e0e1eaf6dcb" tvg-name="Real Madrid U19 v Borussia Dortmund U19" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Real Madrid U19 v Borussia Dortmund U19
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Freal-madrid-u19-vs-borussia-dortmund-u19-19300165%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="9bfc13e9e809516b9263db5752061afc" tvg-name="Al Gharafa v Al Wasl" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Al Gharafa v Al Wasl
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fal-gharafa-vs-al-wasl-19265585%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a7f86b6d64d691d10cce8d717b6d9d78" tvg-name="Esteghlal v Al Nassr" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Esteghlal v Al Nassr
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Festeghlal-vs-al-nassr-19265584%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="b2620554afa4c4234291f9355f260184" tvg-name="Monaco v Crvena Zvezda" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Monaco v Crvena Zvezda
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fmonaco-vs-crvena-zvezda-19296237%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e0d6a78f8462cf5280c4241b072d58ae" tvg-name="Milan v Club Brugge" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Milan v Club Brugge
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fmilan-vs-club-brugge-19296236%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="de7d28b7b1dc96358d173744f913be25" tvg-name="Cardiff v Portsmouth" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Cardiff v Portsmouth
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fcardiff-portsmouth-18453%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="7ea7e016a47d62681464b3daf783bb7b" tvg-name="Leeds v Watford" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Leeds v Watford
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fleeds-watford-18454%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="bf868cfae5cf9db0b62a88e33cff04db" tvg-name="Oxford United v Derby" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Oxford United v Derby
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Foxford-united-derby-18455%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="84419e30420d63ec031c2050e7156b65" tvg-name="Stoke City v Bristol City" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Stoke City v Bristol City
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fstoke-city-bristol-city-18459%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="eaf2a73479f75db18f0d6a202793aa61" tvg-name="Sheffield Wednesday v Swansea" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Sheffield Wednesday v Swansea
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fsheffield-wednesday-swansea-18458%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="31ac0d1b2e58f1bdadee00503e29a2e7" tvg-name="Preston v Norwich" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Preston v Norwich
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fpreston-norwich-18456%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="f440e1ab72f091619eb7e3a428a21577" tvg-name="QPR v Coventry" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",QPR v Coventry
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fqpr-coventry-18457%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="4e7ad437beab886030965a306a3a4c2e" tvg-name="Paris Saint Germain v PSV" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Paris Saint Germain v PSV
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fparis-saint-germain-vs-psv-19296241%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d2ac2cd7f6ab4df3174a4d3997eb0f5b" tvg-name="Sturm Graz v Sporting CP" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Sturm Graz v Sporting CP
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fsturm-graz-vs-sporting-cp-19296242%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="0e128e18279c649d04ba096bdb7a6644" tvg-name="Juventus v VfB Stuttgart" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Juventus v VfB Stuttgart
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fjuventus-vs-vfb-stuttgart-19296240%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1a9a60db70ee4eb1592e7cc609ccbba2" tvg-name="Aston Villa v Bologna" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Aston Villa v Bologna
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Faston-villa-vs-bologna-19296238%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="5c888e20a1e56f925c633f84cccaddd0" tvg-name="Real Madrid v Borussia Dortmund" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Real Madrid v Borussia Dortmund
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Freal-madrid-vs-borussia-dortmund-19296244%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="43e77e2458d53b4c67f81fe38092a282" tvg-name="Arsenal v Shakhtar Donetsk" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Arsenal v Shakhtar Donetsk
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Farsenal-vs-shakhtar-donetsk-19296243%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="858eab31059fda60532ecebbfe4ab5ea" tvg-name="Girona v Slovan Bratislava" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Girona v Slovan Bratislava
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fgirona-vs-slovan-bratislava-19296239%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="68802b954255ccfe79e505ca886e11ea" tvg-name="CRB v Mirassol" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",CRB v Mirassol
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fcrb-vs-mirassol-19099046%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="f7648705b4afc9bc949ab7dc022e8ea9" tvg-name="Santos v Ceara" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Santos v Ceara
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fsantos-vs-ceara-19099044%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="2c41dbfca5aeae39edfa92a1cdc6825b" tvg-name="Boston Celtics v New York Knicks" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Boston Celtics v New York Knicks
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fecho%2Fjs%2Fboston-celtics-new-york-knicks-19392%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="44f1561ef5196845999821e2cf18746a" tvg-name="CF Montreal v Atlanta United" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",CF Montreal v Atlanta United
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fcf-montreal-vs-atlanta-united-19322682%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="50eca174e13836ac2ea81942f0924abe" tvg-name="Vila Nova v Amazonas" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Vila Nova v Amazonas
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fvila-nova-vs-amazonas-19099040%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="701e6ef0fb7a67af52c17b3c37fbfcb7" tvg-name="Novorizontino v Avai" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Novorizontino v Avai
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fnovorizontino-vs-avai-19099043%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="0ab644df095c3647b221e3f2703918d8" tvg-name="Gamba Osaka v Nagoya Grampus" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Gamba Osaka v Nagoya Grampus
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fgamba-osaka-vs-nagoya-grampus-19075137%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a48f80e7fccac3f0a8afeadf5a6b8c1a" tvg-name="Albirex Niigata v Tokyo Verdy" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Albirex Niigata v Tokyo Verdy
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Falbirex-niigata-vs-tokyo-verdy-19075136%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a4eda76bf77ab0a20e8e71cbd6aaac3b" tvg-name="Galatasaray v Elfsborg" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Galatasaray v Elfsborg
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fgalatasaray-vs-elfsborg-19296404%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="622cc9b7806f5b39c3ed1d85fd4fb57e" tvg-name="Sporting Braga v BodÃ¸ / Glimt" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Sporting Braga v BodÃ¸ / Glimt
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fsporting-braga-vs-bodo-glimt-19296405%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="84ba4f191cb74a2c695aae8ff60d6a8b" tvg-name="Brest v Bayer 04 Leverkusen" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Brest v Bayer 04 Leverkusen
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fbrest-vs-bayer-04-leverkusen-19296246%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="172573ee4d3efc5e2235e70bee5686e6" tvg-name="Atalanta v Celtic" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Atalanta v Celtic
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fatalanta-vs-celtic-19296245%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="763f86548a6083828cbd76677cb5cc3d" tvg-name="Benfica v Feyenoord" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Benfica v Feyenoord
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fbenfica-vs-feyenoord-19296249%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="6711310b56b080d72f60ebffa6e27012" tvg-name="RB Leipzig v Liverpool" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",RB Leipzig v Liverpool
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Frb-leipzig-vs-liverpool-19296252%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1a38adc0520ef0906dbcebd13cf1d13d" tvg-name="FC Barcelona v FC Bayern Munchen" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",FC Barcelona v FC Bayern Munchen
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Ffc-barcelona-vs-fc-bayern-munchen-19296248%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="29f82cfa54a6c39610f0d12aaec34864" tvg-name="Young Boys v Inter" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Young Boys v Inter
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fyoung-boys-vs-inter-19296253%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="bd6308c267ffe0038822e5f9f3689dc9" tvg-name="Atletico Madrid v LOSC Lille" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Atletico Madrid v LOSC Lille
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fatletico-madrid-vs-losc-lille-19296247%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="72500ab45f9288523f0ddc85f681c4e9" tvg-name="Manchester City v Sparta Praha" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Manchester City v Sparta Praha
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fmanchester-city-vs-sparta-praha-19296251%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e09fa5934ec26c410089249d3fa30cc6" tvg-name="Salzburg v Dinamo Zagreb" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Salzburg v Dinamo Zagreb
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fsalzburg-vs-dinamo-zagreb-19296250%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="dd79e4540b70d1f5a33ce674b20b210a" tvg-name="Ponte Preta v Brusque" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/football.png?raw=true" group-title="Football" tvg-shift="-6",Ponte Preta v Brusque
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fponte-preta-vs-brusque-19099041%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="55de6f98de36c273891e9ea75f78dff7" tvg-name="Junior Younan v Alexis Gaytan" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/bg/fighting.png" group-title="Fight" tvg-shift="-6",Junior Younan v Alexis Gaytan
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fjunior-younan-vs-alexis-gaytan%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="4685232c5222415f526654cc6a7ee31a" tvg-name="Maple Leaf Pro Wrestling Forged In Excellence Night 2" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/bg/fighting.png" group-title="Fight" tvg-shift="-6",Maple Leaf Pro Wrestling Forged In Excellence Night 2
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fmaple-leaf-pro-wrestling-forged-in-excellence-night-2%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e0a30e47d5f19db57b04e3cbb570a987" tvg-name="UAE WARRIORS 55" tvg-logo="https://raw.githubusercontent.com/dtankdempse/streamed-su-sports/main/images/bg/fighting.png" group-title="Fight" tvg-shift="-6",UAE WARRIORS 55
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fuae-warriors-55-1629408210%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="1ab900138a9687370a72fe40813824d3" tvg-name="Tucson Roadrunners v Texas Stars" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/hockey.png?raw=true" group-title="Hockey" tvg-shift="-6",Tucson Roadrunners v Texas Stars
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-tucson-roadrunners-texas-stars%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="05a5a9498b4204f73bebe804c273f675" tvg-name="Anaheim Ducks vs Los Angeles Kings" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdozDAADCDhIEIXiGkgUILCZDVrekIhQsDMASLmMUYVSh5fyjajkffFZgMC9xMQggA.webp" group-title="Hockey" tvg-shift="-6",Anaheim Ducks vs Los Angeles Kings
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fanaheim-ducks-vs-los-angeles-kings%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="994f8a2995c1ed52209c71021969ad14" tvg-name="San Jose Sharks vs Colorado Avalanche" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkg5gUrBiCwheIaSBT7jh8zBDUQ8FkgpYRcxijCqdWsvCLU5Ovi6YB7iYhBAA.webp" group-title="Hockey" tvg-shift="-6",San Jose Sharks vs Colorado Avalanche
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fsan-jose-sharks-vs-colorado-avalanche%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="20de1531e3c533add43e376e2150e428" tvg-name="Toronto Maple Leafs vs Tampa Bay Lightning" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkmBIQUZQJC8Q0kChBYjIapZAwDOlkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="Hockey" tvg-shift="-6",Toronto Maple Leafs vs Tampa Bay Lightning
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Ftampa-bay-lightning-vs-toronto-maple-leafs-1629406241%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="6d44ce1b7f67a9249beafca6aee2387d" tvg-name="Charlottetown v Quebec" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/hockey.png?raw=true" group-title="Hockey" tvg-shift="-6",Charlottetown v Quebec
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fcharlottetown-vs-quebec-1629408420%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d6d733414c03c9b3ab8217d0565ce2d3" tvg-name="Football Night in America" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/am-football.png?raw=true" group-title="American-football" tvg-shift="-6",Football Night in America
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729465200000-football-night-in-america%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="15a361dfe94e12052851cc1863ad3c1e" tvg-name="NBC Sunday Night Football" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/am-football.png?raw=true" group-title="American-football" tvg-shift="-6",NBC Sunday Night Football
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fnbc-sunday-night-football%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="11dfbc94d7e17f6452ecebf81cf46ded" tvg-name="NFL PrimeTime" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/am-football.png?raw=true" group-title="American-football" tvg-shift="-6",NFL PrimeTime
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729467000000-nfl-primetime%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="275120f3af67e27a920a2279953dc8b9" tvg-name="Pittsburgh Steelers vs New York Jets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtLBIw-CCBjyQvEFiMmQJENRApzIEPBbaDWEXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp" group-title="American-football" tvg-shift="-6",Pittsburgh Steelers vs New York Jets
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fpittsburgh-steelers-vs-new-york-jets%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="f8014c4edac46db7f2e1050069ea7139" tvg-name="Sunday Night Football Final" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/am-football.png?raw=true" group-title="American-football" tvg-shift="-6",Sunday Night Football Final
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fsunday-night-football-final%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="fdeb7d6ede9a1f0a4af18642a547a85c" tvg-name="Minnesota Lynx v New York Liberty" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Minnesota Lynx v New York Liberty
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fminnesota-lynx-vs-new-york-liberty-1629406213%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="ac77ef5717311eb540d1e76496d62b10" tvg-name="Espanol Osorno v Nacional" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Espanol Osorno v Nacional
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fbravo%2Fjs%2F1729467600000-espanol-osorno-nacional%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="bc15ba1d6b38ed8b6e9bbebd220b9d22" tvg-name="New York Liberty vs Minnesota Lynx" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF7lq3UZpDSQJfShCmQICPsn5gSClhFzGKMKpQ835RjrEfb9GBu4mIQQA.webp" group-title="Basketball" tvg-shift="-6",New York Liberty vs Minnesota Lynx
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fwnba-final-new-york-liberty-w-vs-minnesota-lynx-w%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="6cf0ea0cef5841c9f005bc7d16edaca4" tvg-name="South East Melbourne Phoenix v Brisbane Bullets" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",South East Melbourne Phoenix v Brisbane Bullets
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fsouth-east-melbourne-phoenix-vs-brisbane-bullets-1629406214%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="9145e62a5d71e87e98053d654ff2c3ed" tvg-name="Adelaide 36ers v Perth Wildcats" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Adelaide 36ers v Perth Wildcats
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fadelaide-36ers-vs-perth-wildcats-1629406215%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="cb435b17c0df047f631203bf67918f5f" tvg-name="Sichuan v Zhejiang Guangsha" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Sichuan v Zhejiang Guangsha
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fsichuan-vs-zhejiang-guangsha%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="89443f7f2e580a3edb00db3f5c5314c0" tvg-name="Nanjing Tongxi v Ningbo Rockets" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Nanjing Tongxi v Ningbo Rockets
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fnanjing-tongxi-vs-ningbo-rockets%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="48788a62bfd8337e6e08c2c90c9eca3e" tvg-name="Melbourne United v New Zealand Breakers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Melbourne United v New Zealand Breakers
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fmelbourne-united-vs-new-zealand-breakers-1629406238%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="ca05c5a59a323794a803b27476141f1c" tvg-name="Sydney Kings v Tasmania JackJumpers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Sydney Kings v Tasmania JackJumpers
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fsydney-kings-vs-tasmania-jackjumpers-1629406239%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="ff78cfff9a483948095b5c1371e0617a" tvg-name="Manisa BB v Peristeri" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Manisa BB v Peristeri
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fmanisa-bb-vs-peristeri-1629408211%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="739a28fe48eed26bfaca936f6f860ed6" tvg-name="7Bet-Lietkabelis Panevezys v Cosea JL Bourg-en-Bresse" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",7Bet-Lietkabelis Panevezys v Cosea JL Bourg-en-Bresse
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2F7bet-lietkabelis-panevezys-vs-cosea-jl-bourg-en-bresse-1629406240%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="932d2716f44609f1f337fd2368806e0d" tvg-name="ERA Nymburk v RASTA Vechta" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",ERA Nymburk v RASTA Vechta
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fera-nymburk-vs-rasta-vechta-1629408212%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d3a6d86fa9fd04f978e5efbe897c8638" tvg-name="Hapoel Holon v Igokea" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",Hapoel Holon v Igokea
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fhapoel-holon-vs-igokea-1629406246%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="a5034c8beba9e35b174c81a96c4fa1b5" tvg-name="King Szczecin v Filou Oostende" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball" tvg-shift="-6",King Szczecin v Filou Oostende
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fking-szczecin-vs-filou-oostende-1629406245%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="41dd7945cdd3776d644ba036d9a0905b" tvg-name="USA v Nepal" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",USA v Nepal
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fusa-vs-nepal-1629406211%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e3321049c848bc74163fc45138384434" tvg-name="United States of America v Nepal" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",United States of America v Nepal
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Funited-states-of-america-vs-nepal%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d35d229ec2c79e0a56478daac26f1242" tvg-name="Bangladesh v South Africa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Bangladesh v South Africa
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Fbangladesh-vs-south-africa%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d2a3ffb9a0993e31ba6d3d0c233e4b3a" tvg-name="Bangladesh v South Africa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Bangladesh v South Africa
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fbangladesh-vs-south-africa-1629406212%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="88bddda694387eb9806b9bb9804a51cc" tvg-name="Dream11 ECC Challenger 2024 | Group 1 Day 1" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Dream11 ECC Challenger 2024 | Group 1 Day 1
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fdream11-ecc-challenger-2024-or-group-1-day-1-1629408203%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="3ee986775d6ce7066ef34aa315a91909" tvg-name="USA v Nepal" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",USA v Nepal
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fusa-vs-nepal-1629406234%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e4f9dc70bd906e668e0f52458dbcf74d" tvg-name="Bangladesh v South Africa" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Bangladesh v South Africa
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fbangladesh-vs-south-africa-1629408208%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e85f3d07b447c7961fa3437e1bb17bcb" tvg-name="Zimbabwe v Mozambique" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Zimbabwe v Mozambique
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fzimbabwe-vs-mozambique-1629406235%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="3428f2597836770d99dba6f6efcd842d" tvg-name="Seychelles v Gambia" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Seychelles v Gambia
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fseychelles-vs-gambia-1629406236%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="f669ffc05065a045ee6d8d526b9b6d05" tvg-name="Dream11 ECC Challenger 2024 | Group 1 Day 1" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Dream11 ECC Challenger 2024 | Group 1 Day 1
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fdream11-ecc-challenger-2024-or-group-1-day-1-1629408209%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="07ba0e5dca6f74187b0b98809ddd79fe" tvg-name="Kenya v Rwanda" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/cricket.png?raw=true" group-title="Cricket" tvg-shift="-6",Kenya v Rwanda
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fkenya-vs-rwanda-1629406237%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="9fcff0d8562c3941159f8f5d7d57f394" tvg-name="New York Jets v Pittsburgh Steelers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/rugby.png?raw=true" group-title="Rugby" tvg-shift="-6",New York Jets v Pittsburgh Steelers
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fnew-york-jets-vs-pittsburgh-steelers-1629406229%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d94c142c780683b5561cc610c63bc7f7" tvg-name="Baltimore Ravens v Tampa Bay Buccaneers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/rugby.png?raw=true" group-title="Rugby" tvg-shift="-6",Baltimore Ravens v Tampa Bay Buccaneers
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fbaltimore-ravens-vs-tampa-bay-buccaneers-1629406242%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="e870d79525a9090c06a1576d542f92ea" tvg-name="Los Angeles Chargers v Arizona Cardinals" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/rugby.png?raw=true" group-title="Rugby" tvg-shift="-6",Los Angeles Chargers v Arizona Cardinals
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Flos-angeles-chargers-vs-arizona-cardinals-1629406243%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="97bc7874fc938c6cf836bc322c3988ef" tvg-name="Los Angeles Dodgers vs New York Mets" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdklg0GIFDt4gsIAzBDUQiCMevN8wTTAEi5jFGFV6O78o2py9dvRg7uJiEEA.webp" group-title="Baseball" tvg-shift="-6",Los Angeles Dodgers vs New York Mets
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Falpha%2Fjs%2Flos-angeles-dodgers-vs-new-york-mets%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="32d25c3368d5ef1338fe06926b02a60b" tvg-name="Cleveland Guardians v New York Yankees" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/baseball.png?raw=true" group-title="Baseball" tvg-shift="-6",Cleveland Guardians v New York Yankees
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fcleveland-guardians-vs-new-york-yankees-1629408204%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="5e8399ea22db0b2a7495258092660410" tvg-name="New York Mets v Los Angeles Dodgers" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/baseball.png?raw=true" group-title="Baseball" tvg-shift="-6",New York Mets v Los Angeles Dodgers
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fnew-york-mets-vs-los-angeles-dodgers-1629408205%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="6813b068917d0e05b96aada6f0f5e135" tvg-name="Triller TV | Event 1 Indian Racing Festival 2024 Round 4 Day" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/motor.png?raw=true" group-title="Motor-sports" tvg-shift="-6",Triller TV | Event 1 Indian Racing Festival 2024 Round 4 Day
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Ftriller-tv-or-event-1-indian-racing-festival-2024-round-4-day-1629408374%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="d0ab6c9ed5804ad18471d7231949d386" tvg-name="PDC Board 2 : 2024 pdc womens series events 2324" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/darts.PNG?raw=true" group-title="Darts" tvg-shift="-6",PDC Board 2 : 2024 pdc womens series events 2324
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fpdc-board-2-2024-pdc-womens-series-events-2324-1629408380%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="ceeb5509f6d1471b963e7607c7ece556" tvg-name="PDC 3 : 2024 gambrinus czech darts open day thre" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/darts.PNG?raw=true" group-title="Darts" tvg-shift="-6",PDC 3 : 2024 gambrinus czech darts open day thre
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Fpdc-3-2024-gambrinus-czech-darts-open-day-thre-1629408383%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
+#EXTINF:-1 tvg-id="552ba6d9b0a5fdc3909edf50ba6cd1fb" tvg-name="Tokyo Open - Day 2" tvg-logo="https://github.com/dtankdempse/streamed-su-sports/blob/main/images/bg/tennis.png?raw=true" group-title="Tennis" tvg-shift="-6",Tokyo Open - Day 2
+http://192.168.50.239:4123?url=https%3A%2F%2Frr.vipstreams.in%2Fcharlie%2Fjs%2Ftokyo-open-day-2-1629408206%2F1%2Fplaylist.m3u8&data=UmVmZXJlcj1odHRwczovL2VtYmVkbWUudG9wLw%3D%3D
